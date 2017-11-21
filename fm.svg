@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg"
+><metadata
+></metadata
+><defs
+><font horiz-adv-x="456"
+><font-face font-family="fm" units-per-em="1000" ascent="980" descent="-349"
+></font-face
+><missing-glyph horiz-adv-x="364" d="M33 0V666H298V0H33ZM66 33H265V633H66V33Z"
+></missing-glyph
+><glyph unicode="&#x391;" horiz-adv-x="537" d="M15 0L215 515H326L522 0H417L366 134H165L114 0H15ZM189 207H345L267 438L189 207Z"
+></glyph
+><glyph unicode="&#x39a;" horiz-adv-x="554" d="M100 0V514h97V0H100ZM198 273L400 514H520L305 276L529 0H405L198 273Z"
+></glyph
+><glyph unicode="&#x39c;" horiz-adv-x="754" d="M75 0l55 514H257L349 222q9 -26 15 -56t9 -44l3 -14q26 104 29 113l93 293H626L679 0H584L559 320q-5 67 -5 114q0 -1 -5.5 -20.5T535.5 367T523 323L415 0H332L229 321q-8 24 -18 65t-11 50q0 -24 -7 -115L168 0H75Z"
+></glyph
+><glyph unicode="&#x39e;" horiz-adv-x="640" d="M70 139t0 120.5T136.5 451t186 71T506 449T570 254.5T509.5 62T326 -9T136.5 65ZM176 352t0 -92.5t32 -147T324 58q1 0 2 0q83 0 112 62q24 50 24 126q0 119 -37 161.5T312.5 450T204 396Q176 352 176 259.5ZM279 253t0 15t11.5 26t28 11t28 -11T358 268T346.5 242t-28 -11t-28 11Z"
+></glyph
+><glyph unicode="&#x3a3;" horiz-adv-x="508" d="M45 0l1 66L276 258L54 446l26 68H459L430 438H182L400 259L171 79H463L436 0H45Z"
+></glyph
+><glyph unicode="&#x3a4;" d="M25 438v76H441L428 438H273V0H178V438H25Z"
+></glyph
+></font
+></defs
+><g style="font-family: &quot;fm&quot;; font-size:50;fill:black"
+><text x="20" y="50"
+>!&quot;#$%&amp;&#39;()*+,-./0123456789:;&#229;&lt;&gt;?</text
+><text x="20" y="100"
+>@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_</text
+><text x="20" y="150"
+>` abcdefghijklmnopqrstuvwxyz|{}~</text
+></g
+></svg
+>
